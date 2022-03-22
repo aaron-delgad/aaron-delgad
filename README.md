@@ -14,13 +14,12 @@ training in the world of web development.
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="80" style="vertical-align:down; margin:4px" alt="typescript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" height="80" style="vertical-align:down; margin:4px" alt="angular">
+<img src="https://blog.tednologia.com/wp-content/uploads/2021/02/bootstrap-logo-2.png" height="80" style="vertical-align:down; margin:4px" alt="angular">
+<img src="https://javadesde0.com/wp-content/uploads/85e1033844072a68e71db8de2c67eb1a.png" height="80" style="vertical-align:down; margin:4px" alt="angular">
+<img src="https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png" height="80" style="vertical-align:down; margin:4px" alt="angular">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdJuMkn0fu2x_Ix11G72YRH4Cub_5HTPP-58uAS2bbOkdVdVCbhMbjlQQOQRmlyMYFs-k&usqp=CAU" height="80" style="vertical-align:down; margin:4px" alt="angular">
 </p>
+<h3 align="left">Connect with me</h3>
+<a href="https://linkedin.com/in/raúl-aarón-delgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-aaron-delgad/aaron-delgad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
